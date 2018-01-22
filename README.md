@@ -2,7 +2,11 @@
 
 Example usage:
 ```
-$ python calc_profit_ethereum.py 
+$ python calc_profit_ethereum.py
+```
+
+Output example:
+```
 1. data:  ethereumStats = {"blockTime": 14.7802293511395, "lastUpdate": 1516660202.166973, "priceUsd": 940.88, "difficulty": 2390878600435750}; 
 
 2. repl:  {"blockTime": 14.7802293511395, "lastUpdate": 1516660202.166973, "priceUsd": 940.88, "difficulty": 2390878600435750} 
