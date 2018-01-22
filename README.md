@@ -1,5 +1,9 @@
 # mining-profitability-calc
 
+Calculators:
+1) Ethereum - calc_profit_ethereum.py
+
+
 Example usage:
 ```
 $ python calc_profit_ethereum.py
